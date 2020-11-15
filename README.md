@@ -1,2 +1,2 @@
 # api-nodeJs
-api with nodejs mysql
+api with nodejs and mysql
